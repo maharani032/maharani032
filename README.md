@@ -10,7 +10,7 @@
     <h3> 📊 Github stats </h3>
         <p align="center">
           <a href="https://github.com/maharani032/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharani032&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharani032&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="maharani032 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/maharani032/">
