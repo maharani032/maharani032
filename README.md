@@ -24,9 +24,11 @@
 
 <div>
     <h3>📊 This Week I Spent My Time On: </h3>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
 </div>
+
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
+
 
 <!--
 **maharani032/maharani032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
