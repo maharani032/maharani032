@@ -3,6 +3,7 @@
         <h1 align="center">Hi 👋, I'm Mahar</h1>
     
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maharani032.maharani032)
+[![wakatime](https://wakatime.com/badge/user/dc6ce248-4cff-4baa-ba18-d67d48551e41.svg)](https://wakatime.com/@dc6ce248-4cff-4baa-ba18-d67d48551e41)
 
 </div>
 
@@ -25,14 +26,13 @@
 
 <div>
     <h3>📊 This Week I Spent My Time On: </h3>
-<!--     <img width="49.5%"
-  src="https://github.com/maharani032/maharani032/blob/main/images/stat.svg"
-  alt="maharani stat"
-/> -->
     
+![maharani032's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maharani032)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-    
+
+
 </div>
 
     
