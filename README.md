@@ -24,19 +24,10 @@
 </div>    
 
 
-<div>
-    <h3>📊 This Week I Spent My Time On: </h3>
-    
-![maharani032's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maharani032)
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
-</div>
-
-    
-</div>
 
 <!--
 **maharani032/maharani032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
