@@ -25,10 +25,14 @@
 
 <div>
     <h3>📊 This Week I Spent My Time On: </h3>
-    <img width="49.5%"
+<!--     <img width="49.5%"
   src="https://github.com/maharani032/maharani032/blob/main/images/stat.svg"
   alt="maharani stat"
-/>
+/> -->
+    
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+    
 </div>
 
     
