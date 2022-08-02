@@ -1,5 +1,6 @@
-<div align="center">
-<h1 align="center">Hi 👋, I'm Mahar</h1>
+<div>
+    <div align="center">
+        <h1 align="center">Hi 👋, I'm Mahar</h1>
     
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maharani032.maharani032)
 
@@ -19,7 +20,7 @@
           </a>
        </p>
      <br>
-  </div>    
+</div>    
 
 
 <div>
@@ -27,8 +28,10 @@
 </div>
 
  <!--START_SECTION:waka-->
+    
  <!--END_SECTION:waka-->
-
+    
+</div>
 
 <!--
 **maharani032/maharani032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
