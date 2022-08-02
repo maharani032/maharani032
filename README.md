@@ -23,11 +23,19 @@
      <br>
 </div>    
 
-
-</div>
+<div>
+        <h1 align="center">My WakaTime Coding Activity</h1>
+    
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+    
+</div>
+    
+    
+</div>
+
+
 
 <!--
 **maharani032/maharani032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
