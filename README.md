@@ -30,14 +30,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 15 July 2022 - To: 14 August 2022
 
-Java             5 hrs 30 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.07 %
-XML              3 hrs 10 mins   ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.84 %
-Groovy           1 hr 3 mins     ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.57 %
-GitIgnore file   49 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.45 %
-JSON             19 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.98 %
-Properties       6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.92 %
+Total Time: 20 hrs 28 mins
+
+Java                   14 hrs 47 mins  ███████████████░░░░░░░░░░   60.37 %
+XML                    5 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   23.87 %
+Groovy                 2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+GitIgnore file         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON                   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Properties             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
