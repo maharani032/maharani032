@@ -3,7 +3,6 @@
         <h1 align="center">Hi 👋, I'm Mahar</h1>
     
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maharani032.maharani032)
-[![wakatime](https://wakatime.com/badge/user/dc6ce248-4cff-4baa-ba18-d67d48551e41.svg)](https://wakatime.com/@dc6ce248-4cff-4baa-ba18-d67d48551e41)
 
 </div>
 
