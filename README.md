@@ -102,7 +102,7 @@ PLpgSQL                  1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/maharani032/maharani032/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 10:26:33 UTC
+ Last Updated on 15/08/2022 10:27:45 UTC
 <!--END_SECTION:waka-->
     
 </div>
