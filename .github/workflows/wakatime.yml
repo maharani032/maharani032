@@ -24,9 +24,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
-          SHOW_UPDATED_DATE: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_UPDATED_DATE: true
+          SHOW_PROFILE_VIEWS: false
+          SHOW_LINES_OF_CODE: true
           SYMBOL_VERSION: 2
           COMMIT_MESSAGE: Updated the Graph with new Metrics
           TIME_RANGE: last_30_days
