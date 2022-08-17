@@ -80,7 +80,7 @@ PLpgSQL                  1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/maharani032/maharani032/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 10:07:02 UTC
+ Last Updated on 17/08/2022 10:08:41 UTC
 <!--END_SECTION:waka-->
     
 </div>
