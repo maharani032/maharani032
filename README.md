@@ -5,12 +5,12 @@
         <h2>My WakaTime Coding Activity</h1>
     <p align="center">
           <a href="https://github.com/maharani032/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharani032&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="maharani032 :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharani032&langs_count=6&theme=synthwave&layout=compact&hide_border=true" alt="maharani032 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/maharani032/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=maharani032&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharani032&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=maharani032&show_icons=true&theme=synthwave&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharani032&theme=synthwave&hide_border=true" />
           </a>
        </p>
     
@@ -22,7 +22,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 109 Contributions in the Year 2022
+> 🏆 108 Contributions in the Year 2022
  > 
 > 📦 54.0 kB Used in GitHub's Storage 
  > 
@@ -35,22 +35,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    6 commits      ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.77% 
-🌆 Daytime    97 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.01% 
-🌃 Evening    55 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.59% 
+🌞 Morning    6 commits      ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.8% 
+🌆 Daytime    96 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.76% 
+🌃 Evening    55 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.81% 
 🌙 Night      1 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.63%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       22 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.84% 
-Tuesday      23 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.47% 
-Wednesday    27 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.98% 
-Thursday     32 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.13% 
-Friday       23 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.47% 
-Saturday     13 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.18% 
-Sunday       19 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.95%
+Monday       22 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.92% 
+Tuesday      23 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.56% 
+Wednesday    27 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.09% 
+Thursday     31 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.62% 
+Friday       23 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.56% 
+Saturday     13 commits     ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.23% 
+Sunday       19 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.03%
 
 ```
 
@@ -90,7 +90,7 @@ PLpgSQL                  1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/maharani032/maharani032/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 05:42:56 UTC
+ Last Updated on 18/08/2022 00:48:39 UTC
 <!--END_SECTION:waka-->
     
 </div>
