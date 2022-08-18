@@ -1,8 +1,28 @@
 <div>
     <div align="center">
-        <h1 align="center">Hi 👋, I'm Mahar</h1>
+        <h1 align="center">Hi 👋, I'm Mahar</h1> 
      </div>
-        <h2>My WakaTime Coding Activity</h1>
+    
+### About Me
+I'm Android Developer from Indonesia.
+    
+- 🌱 I’m currently learning Android Java
+- 👯 I’m looking to collaborate on Restful API (Node.js, Typescript, Postgresql) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maharani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahar-human)
+    
+### :hammer_and_wrench: Languages and Tools :
+    
+<div align='center'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
+</div>
+    
+### :fire: My Stats :  
+    
+<div>
     <p align="center">
           <a href="https://github.com/maharani032/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharani032&langs_count=6&theme=synthwave&layout=compact&hide_border=true" alt="maharani032 :: Top Langs" /></a>
@@ -13,6 +33,7 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharani032&theme=synthwave&hide_border=true" />
           </a>
        </p>
+    </div>
     
 
 <!--START_SECTION:waka-->
@@ -90,7 +111,7 @@ PLpgSQL                  1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/maharani032/maharani032/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 05:48:36 UTC
+ Last Updated on 18/08/2022 05:45:37 UTC
 <!--END_SECTION:waka-->
     
 </div>
