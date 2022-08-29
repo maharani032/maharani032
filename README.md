@@ -7,7 +7,6 @@
 I'm Android Developer from Indonesia.
     
 - 🌱 I’m currently learning Android Java
-- 👯 I’m looking to collaborate on Restful API (Node.js, Typescript, Postgresql) 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maharani-blue?style=flat&logo=Linkedin&logoColor=white)](https://id.linkedin.com/in/mahar-human)
     
 ### :hammer_and_wrench: Languages and Tools :
