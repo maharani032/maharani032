@@ -40,7 +40,7 @@ I'm Android Developer from Indonesia.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-397%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-396%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -111,7 +111,7 @@ PLpgSQL                  1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/maharani032/maharani032/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 01:03:26 UTC
+ Last Updated on 19/10/2022 01:07:07 UTC
 <!--END_SECTION:waka-->
     
 </div>
