@@ -25,11 +25,9 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_UPDATED_DATE: true
-          SHOW_PROFILE_VIEWS: false
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: true
           SYMBOL_VERSION: 2
           COMMIT_MESSAGE: Updated the Graph with new Metrics
-          TIME_RANGE: last_30_days
-          
           
         
