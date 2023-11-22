@@ -38,7 +38,7 @@ I'm Android Developer from Indonesia.
     
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-498.1%20thousand%20lines%20of%20code-blue)
 
@@ -79,10 +79,11 @@ Sunday                   91 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   37 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Python                   4 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.84 % 
+Text                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.16 % 
 
 🔥 Editors: 
-VS Code                  37 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  4 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -102,7 +103,7 @@ Python                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/maharani032/maharani032/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2023 02:10:21 UTC
+ Last Updated on 22/11/2023 01:17:47 UTC
 <!--END_SECTION:waka-->
     
 </div>
